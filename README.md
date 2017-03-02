@@ -2,5 +2,5 @@
 
 ***HELLO!***
 
-My name is **Kari** and I study *geomatics*.
+*My* **name** *is* **Kari** *and* **I** *study* **geomatics**.
 
